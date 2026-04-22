@@ -1,6 +1,9 @@
 **Maksim Kirichenko – Frontend Developer**, 5+ years experience, GMT +3
 
-[LinkedIn](https://www.linkedin.com/in/maksimkirichenko/) [GitHub](https://github.com/Maximal-ein) maksim.kirichenko.work@gmail.com Telegram: [@maximal\_ein](https://t.me/Maximal_ein)
+[LinkedIn](https://www.linkedin.com/in/maksimkirichenko/) 
+[GitHub](https://github.com/Maximal-ein) 
+maksim.kirichenko.work@gmail.com 
+Telegram: [@maximal\_ein](https://t.me/Maximal_ein)
 
 **ABOUT**
 
