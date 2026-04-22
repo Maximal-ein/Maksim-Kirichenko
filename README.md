@@ -1,9 +1,6 @@
 **Maksim Kirichenko – Frontend Developer**, 5+ years experience, GMT +3
 
-[LinkedIn](https://www.linkedin.com/in/maksimkirichenko/) 
-[GitHub](https://github.com/Maximal-ein) 
-maksim.kirichenko.work@gmail.com 
-Telegram: [@maximal\_ein](https://t.me/Maximal_ein)
+[LinkedIn](https://www.linkedin.com/in/maksimkirichenko/) &nbsp;&nbsp;&nbsp;[Github](https://github.com/Maximal-ein) &nbsp;&nbsp;&nbsp;maksim.kirichenko.work@gmail.com &nbsp;&nbsp;&nbsp;[Telegram: @maximal\_ein](https://t.me/Maximal_ein)
 
 **ABOUT**
 
@@ -13,8 +10,8 @@ In addition to core frontend knowledge, fullstack background provides a strong u
 
 **SKILLS**
 
-**Main:** JavaScript, TypeScript, HTML, CSS, React, Redux (Redux Toolkit, Redux Thunk), FSD, Webpack Module Federation, Webpack, Vite, Axios, Jest, React testing library, GitLab CI, Scss, Sass, REST API, WebSockets, Next.js, GraphQL, Material UI, Styled Components, Bootstrap.
-**Other:** Java, Spring Boot, JPA/Hibernate, PostgreSQL, Git, web3, StoryBook. React.js, HTML5, CSS3, CI/CD, ES6, Next, Github Actions, Lerna, Yarn, Prettier, Eslint
+**Main:** JavaScript, TypeScript, HTML, CSS, React, Redux (Redux Toolkit, Redux Thunk), FSD, Webpack Module Federation, Webpack, Vite, Axios, Jest, React testing library, GitLab CI, Scss, Sass, REST API, WebSockets, Next.js, GraphQL, Material UI, Styled Components, Bootstrap.  
+**Other:** Java, Spring Boot, JPA/Hibernate, PostgreSQL, Git, web3, StoryBook.
 
 **EXPERIENCE**
 
@@ -47,8 +44,6 @@ In addition to core frontend knowledge, fullstack background provides a strong u
 * Reduced procurement report execution time from 8 to 1.2 seconds by introducing PostgreSQL indexes.
 
 **Technologies:** React, TypeScript, Redux Thunk, Styled Components; Java, Spring Boot, JPA/Hibernate, PostgreSQL
-
----конец первой страницы
 
 **EDUCATION**
 
