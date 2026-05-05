@@ -19,7 +19,7 @@ In addition to core frontend knowledge, fullstack background provides a strong u
 * Following project growth, migrated the monolith to micro-frontends (Module Federation) and introduced Feature-Sliced Design (FSD), reducing code coupling and simplifying merge conflict resolution in related features across 5 parallel teams.
 * Reduced boilerplate code and unified state management by migrating from Redux Thunk to Redux Toolkit.
 * Developed a browser Push notification service using Service Workers.
-* Implemented virtualization for lists of 5000+ items, reducing render time from 3.5 to 0.8 seconds.
+* Implemented virtualization for lists of 5000+ items, reducing render time from 2.5 to 0.8 seconds.
 * Replaced native HTTP requests with Axios and configured global error handling with automatic retries, resolving the issue of unlogged client-side errors.
 
 **Technologies:** React, TypeScript, Redux Toolkit, Styled Components, Material UI, Webpack Module Federation.
