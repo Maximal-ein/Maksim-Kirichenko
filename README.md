@@ -3,7 +3,7 @@
 [LinkedIn](https://www.linkedin.com/in/maksimkirichenko/) &nbsp;&nbsp;&nbsp;[Github](https://github.com/Maximal-ein) &nbsp;&nbsp;&nbsp;maksim.kirichenko.work@gmail.com &nbsp;&nbsp;&nbsp;[Telegram: @maximal\_ein](https://t.me/Maximal_ein)
 
 ## About
-Frontend developer with **5+ years** of commercial experience, working in teams from 4 to 22 members, both remotely and on-site. Built the full development cycle: from gathering product owner requirements to establishing a fully automated release process with high test coverage, analytics, and CI/CD. Expert in scalable unidirectional data flow architectures, emphasizing pure functions, controlled side effects, and business logic testability decoupled from the UI.
+Frontend developer with **5+ years** of commercial experience, working in teams from 4 to 22 members, both remotely and on-site. Built the full development cycle: from gathering product owner requirements to establishing a release process with high test coverage, analytics, and CI/CD. Expert in scalable unidirectional data flow architectures, emphasizing pure functions, controlled side effects, and business logic testability decoupled from the UI.
 
 In addition to core frontend knowledge, fullstack background provides a strong understanding of server-side needs and enables smooth API integration. Regularly integrate AI tools into the development workflow to enhance productivity and improve code quality. Enjoy mentoring teammates, solving difficult problems, and delivering results whether working autonomously or closely with a team.
 
