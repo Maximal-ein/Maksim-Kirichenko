@@ -30,7 +30,7 @@ In addition to core frontend knowledge, fullstack background provides a strong u
 * Eliminated cascading re-renders and visual flicker (CLS → 0) on pages with 10+ concurrent API calls by implementing batched state updates.
 * Migrated client-side pages from react-helmet to Next.js (SSR) and configured dynamic routes based on IDs, enhancing SEO and content load times.
 * Introduced a modular architecture (pages, modules, components, UI), accelerating development and reducing the number of integration bugs.
-* Achieved 85% unit test coverage (Jest + React Testing Library) for critical utilities, significantly reducing the number of customer-reported bugs.
+* Achieved 85% unit test coverage (Jest + React Testing Library) for critical utilities, significantly reducing the number of regression bugs.
 
 **Technologies:** Next.js, React, TypeScript, Redux Thunk, Material UI, SCSS.
 
