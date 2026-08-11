@@ -14,7 +14,7 @@ In addition to core frontend knowledge, fullstack background provides a strong u
 
 ## Experience
 
-KPUGS: 05/2022 – PRESENT, 4+ years
+**KPUGS**: 05/2022 – PRESENT, 4+ years
 
 * Following project growth, migrated the monolith to micro-frontends (Module Federation) and introduced Feature-Sliced Design (FSD), reducing code coupling and simplifying merge conflict resolution in related features across 5 parallel teams.
 * Reduced boilerplate code and unified state management by migrating from Redux Thunk to Redux Toolkit.
@@ -24,7 +24,7 @@ KPUGS: 05/2022 – PRESENT, 4+ years
 
 **Technologies:** React, TypeScript, Redux Toolkit, Styled Components, Material UI, Webpack Module Federation.
 
-BaltInfo: 04/2022 – 11/2023, 1.7 years
+**BaltInfo**: 04/2022 – 11/2023, 1.7 years
 
 * Improved the performance of key pages by implementing memoization for heavy components and splitting large, lot-specific datasets into separate chunks.
 * Eliminated cascading re-renders and visual flicker (CLS → 0) on pages with 10+ concurrent API calls by implementing batched state updates.
@@ -34,7 +34,7 @@ BaltInfo: 04/2022 – 11/2023, 1.7 years
 
 **Technologies:** Next.js, React, TypeScript, Redux Thunk, Material UI, SCSS.
 
-Fensma: Fullstack developer 11/2020 – 03/2022, 1.3 years
+**Fensma**: Fullstack developer 11/2020 – 03/2022, 1.3 years
 
 * Developed a customer dashboard (React) and a corresponding REST API (Java + Spring Boot), achieving p95 latency < 300 ms.
 * Reduced the main chunk size by 0.8 MB and improved First Contentful Paint (FCP) by 26% through lazy loading and dynamic imports of heavy builder modules.
